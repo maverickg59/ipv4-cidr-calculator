@@ -73,6 +73,6 @@ Copyright (c) 2024 Chris White
 
 Contributions are welcome! Please fork the repository and create a pull request with your enhancements or bug fixes.
 
-- Built with ❤️ by [Chris White](https://chriswhite.rocks).
+Built with ❤️ by [Chris White](https://chriswhite.rocks).
 
 ---
